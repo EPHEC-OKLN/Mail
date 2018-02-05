@@ -7,3 +7,4 @@
 # Remarques éventuelles
 
 # Sources (Important !)
+http://www.appitel.fr/blog/messagerie/messagerie-professionnelle-microsoft-exchange-server/
