@@ -8,4 +8,7 @@ Avoir une adresse mail professionnels permet plusieurs choses:
 
 ## Mise en place d'un serveur Microsoft Exchange
 ### Prérequis
-[ ] Windows Server 2016 Standard ou Datacenter
+- [ ] Tous les controlers de domaines doivent exécuter Windows Server 2016 Standard ou Datacenter 
+- [ ] Installer Active Directory
+- [ ] Le niveau de fonctionnalité de la forêt Active Directory doit correspondre à Windows Server 2016
+- [ ] 
