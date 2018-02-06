@@ -34,5 +34,12 @@ Vérifiez les autorisations suivantes pour le compte utilisé pour installer Exc
 3. La page Copie des fichiers affiche la progression de la copie des fichiers sur le disque dur local. En règle générale, les fichiers sont copiés sur <em>%WinDir%\Temp\ExchangeSetup</em>, mais vous pouvez vérifier l’emplacement dans le journal d’installation Exchange situé dans <em>C:\ExchangeSetupLogs\ExchangeSetup.log</em>
 <img src = "https://i-technet.sec.s-msft.com/dynimg/IC872138.png" title = "google logo" alt = "Google logo">
 4. Sur la page Introduction, nous vous conseillons de consulter les liens relatifs à la planification de déploiement d’Exchange Server 2016 si ce n’est pas déjà fait. Cliquez sur Suivant pour continuer.
+5. Suivant
+6. Suivant
+7. Paramètres recommandé
+8. Selectionner le rôles des serveurs
+9. Choisir l'emplacement d'installation
+10. Spécifier le nom de votre organisation
+
 
 
