@@ -40,6 +40,26 @@ Vérifiez les autorisations suivantes pour le compte utilisé pour installer Exc
 8. Selectionner le rôles des serveurs
 9. Choisir l'emplacement d'installation
 10. Spécifier le nom de votre organisation
+### Création de boîtes aux lettres d’utilisateur
+Utiliser le CAE pour créer des boîtes aux lettres d’utilisateur
+1. Dans le CAE, accédez à Destinataires > Boîtes aux lettres.
+2. Cliquez sur Nouveau (Icône Ajouter), puis sélectionnez Boîte aux lettres d’utilisateur.
+![Copie Logo](https://i-technet.sec.s-msft.com/dynimg/IC863494.png "Copie image")
+3. Dans la page Nouvelle boîte aux lettres d’utilisateur, configurez les paramètres suivants:
+   * Alias
+   * Utilisateur existant ou Nouvel utilisateur
+   * Prénom
+   * Initiales
+   * Nom de famille
+   * Nom d’affichage (Obligatoire)
+   * Nom (Obligatoire)
+   * Mot de passe (Obligatoire)
+4. Possibilité d'automatisé la tache en ligne de commande
+```cmd
+New-Mailbox -Name <Name>  -UserPrincipalName <UPN> -Password (ConvertTo-SecureString -String '<Password>' -AsPlainText -Force) [-Alias <Alias>] [-FirstName <FirstName>] [-LastName <LastName>] [-DisplayName <DisplayName>] -[OrganizationalUnit <OU>] 
+```
+   
+
 ## Sources
 #### Installation
 https://technet.microsoft.com/fr-fr/library/bb124778(v=exchg.160).aspx
