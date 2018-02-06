@@ -8,4 +8,4 @@ Avoir une adresse mail professionnels permet plusieurs choses:
 
 ## Mise en place d'un serveur Microsoft Exchange
 ### Prérequis
--[] Windows Server 2016 Standard ou Datacenter
+[] Windows Server 2016 Standard ou Datacenter
