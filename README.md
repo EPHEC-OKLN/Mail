@@ -40,8 +40,11 @@ Vérifiez les autorisations suivantes pour le compte utilisé pour installer Exc
 8. Selectionner le rôles des serveurs
 9. Choisir l'emplacement d'installation
 10. Spécifier le nom de votre organisation
-### Sources
+## Sources
+#### Installation
 https://technet.microsoft.com/fr-fr/library/bb124778(v=exchg.160).aspx
+#### Création d'utilisateur
+https://technet.microsoft.com/fr-fr/library/jj991919(v=exchg.160).aspx
 
 
 
