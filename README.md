@@ -29,7 +29,7 @@ Vérifiez les autorisations suivantes pour le compte utilisé pour installer Exc
 ### Installation de Microsoft Exchange 2016
 1. Démarrez le programme d’installation Exchange 2016 en double-cliquant sur <em>Setup.exe</em>
 2. L’Assistant Installation d’Exchange Server 2016 s’ouvre. Sur la page Rechercher des mises à jour ?, choisissez l’une des options suivantes, puis cliquez sur Suivant pour continuer :
-  * Se connecter à Internet et rechercher les mises à jour disponibles
-  * Ne pas vérifier les mises à jour immédiatement
+   * Se connecter à Internet et rechercher les mises à jour disponibles
+   * Ne pas vérifier les mises à jour immédiatement
 
 
