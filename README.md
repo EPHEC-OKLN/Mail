@@ -4,4 +4,7 @@ Ils ont aussi un rôle d'archivage et d'authentification de la communication.<br
 Avoir une adresse mail professionnels permet plusieurs choses:
 <li>Elle assure la crédibilité de votre entreprise.</li>
 <li>L'entreprise reste maitre des mails associé au domaine.</li>
-<li>Les protections contre les mails malicieux, spams, phishing, ect, sont gérer de facons centraliser</li>
+<li>Les protections contre les mails malicieux, spams, phishing, ect, sont gérer de facons centraliser</li><br>
+### Mise en place d'un serveur Microsoft Exchange
+##### Prérequis
+-[] Windows Server 2016 Standard ou Datacenter
