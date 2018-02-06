@@ -7,7 +7,7 @@ Avoir une adresse mail professionnels permet plusieurs choses:
 * Les protections contre les mails malicieux, spams, phishing, ect, sont gérer de facons centraliser<br>
 
 ## Mise en place d'un serveur Microsoft Exchange
-<em>Durée d'exécution : Environ 60 Minutes</em>
+*Durée d'exécution : Environ 60 Minutes*
 ### Prérequis
 - [X] Processeur X64
 - [X] Mémoire vive : Minimum 8 Go
@@ -31,7 +31,7 @@ Vérifiez les autorisations suivantes pour le compte utilisé pour installer Exc
 2. L’Assistant Installation d’Exchange Server 2016 s’ouvre. Sur la page Rechercher des mises à jour ?, choisissez l’une des options suivantes, puis cliquez sur Suivant pour continuer :
    * Se connecter à Internet et rechercher les mises à jour disponibles
    * Ne pas vérifier les mises à jour immédiatement
-3. La page Copie des fichiers affiche la progression de la copie des fichiers sur le disque dur local. En règle générale, les fichiers sont copiés sur *%WinDir%\Temp\ExchangeSetup*, mais vous pouvez vérifier l’emplacement dans le journal d’installation Exchange situé dans <em>C:\ExchangeSetupLogs\ExchangeSetup.log</em>
+3. La page Copie des fichiers affiche la progression de la copie des fichiers sur le disque dur local. En règle générale, les fichiers sont copiés sur *%WinDir%\Temp\ExchangeSetup*, mais vous pouvez vérifier l’emplacement dans le journal d’installation Exchange situé dans *C:\ExchangeSetupLogs\ExchangeSetup.log*
 ![Copie Logo](https://i-technet.sec.s-msft.com/dynimg/IC872138.png "Copie image")
 4. Sur la page Introduction, nous vous conseillons de consulter les liens relatifs à la planification de déploiement d’Exchange Server 2016 si ce n’est pas déjà fait. Cliquez sur Suivant pour continuer.
 5. Suivant
@@ -40,6 +40,8 @@ Vérifiez les autorisations suivantes pour le compte utilisé pour installer Exc
 8. Selectionner le rôles des serveurs
 9. Choisir l'emplacement d'installation
 10. Spécifier le nom de votre organisation
+### Sources
+https://technet.microsoft.com/fr-fr/library/bb124778(v=exchg.160).aspx
 
 
 
