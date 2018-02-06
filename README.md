@@ -8,7 +8,22 @@ Avoir une adresse mail professionnels permet plusieurs choses:
 
 ## Mise en place d'un serveur Microsoft Exchange
 ### Prérequis
+- [X] Processeur X64
+- [X] Mémoire vive : Minimum 8 Go
+- [X] Espace de stockage : Minimum 30 Go
+- [X] Format de fichier NTFS
 - [ ] Tous les controlers de domaines doivent exécuter Windows Server 2016 Standard ou Datacenter 
 - [ ] Installer Active Directory
 - [ ] Le niveau de fonctionnalité de la forêt Active Directory doit correspondre à Windows Server 2016
-- [ ] 
+- [ ] Exchange prend en charge les espaces de noms DNS
+<li>Vérifiez les autorisations suivantes pour le compte utilisé pour installer Exchange 2016 :</li>
+  - [ ] coucou
+### Client Mail pris en charge
+<li>Outlook 2016</li>
+<li>Outlook 2013</li>
+<li>Outlook 2010 SP2</li>
+<li>Outlook pour Mac pour Office 365</li>
+<li>Outlook pour Mac 2011</li>
+### Mise en place
+
+
