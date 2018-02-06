@@ -7,6 +7,7 @@ Avoir une adresse mail professionnels permet plusieurs choses:
 <li>Les protections contre les mails malicieux, spams, phishing, ect, sont gérer de facons centraliser</li><br>
 
 ## Mise en place d'un serveur Microsoft Exchange
+<em>Durée d'exécution : Environ 60 Minutes</em>
 ### Prérequis
 - [X] Processeur X64
 - [X] Mémoire vive : Minimum 8 Go
@@ -16,14 +17,16 @@ Avoir une adresse mail professionnels permet plusieurs choses:
 - [ ] Installer Active Directory
 - [ ] Le niveau de fonctionnalité de la forêt Active Directory doit correspondre à Windows Server 2016
 - [ ] Exchange prend en charge les espaces de noms DNS
-<li>Vérifiez les autorisations suivantes pour le compte utilisé pour installer Exchange 2016 :</li>
-  - [ ] coucou
+Vérifiez les autorisations suivantes pour le compte utilisé pour installer Exchange 2016 :
+- [ ] Membres du groupe Administrateurs de l’entreprise
+- [ ] Membres du groupe Administrateurs du schéma
 ### Client Mail pris en charge
 <li>Outlook 2016</li>
 <li>Outlook 2013</li>
 <li>Outlook 2010 SP2</li>
 <li>Outlook pour Mac pour Office 365</li>
 <li>Outlook pour Mac 2011</li>
-### Mise en place
+### Installation de Microsoft Exchange 2016
+
 
 
