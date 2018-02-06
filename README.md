@@ -25,6 +25,6 @@ Vérifiez les autorisations suivantes pour le compte utilisé pour installer Exc
 <li>Outlook 2013</li>
 <li>Outlook 2010 SP2</li>
 <li>Outlook pour Mac pour Office 365</li>
-<li>Outlook pour Mac 2011</li>
-## Installation de Microsoft Exchange 2016
+<li>Outlook pour Mac 2011</li><br>
+### Installation de Microsoft Exchange 2016
 <ol>Démarrez le programme d’installation Exchange 2016 en double-cliquant sur <em>Setup.exe</em></ol>
