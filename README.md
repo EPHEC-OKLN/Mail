@@ -31,5 +31,8 @@ Vérifiez les autorisations suivantes pour le compte utilisé pour installer Exc
 2. L’Assistant Installation d’Exchange Server 2016 s’ouvre. Sur la page Rechercher des mises à jour ?, choisissez l’une des options suivantes, puis cliquez sur Suivant pour continuer :
    * Se connecter à Internet et rechercher les mises à jour disponibles
    * Ne pas vérifier les mises à jour immédiatement
+3. La page Copie des fichiers affiche la progression de la copie des fichiers sur le disque dur local. En règle générale, les fichiers sont copiés sur <em>%WinDir%\Temp\ExchangeSetup</em>, mais vous pouvez vérifier l’emplacement dans le journal d’installation Exchange situé dans <em>C:\ExchangeSetupLogs\ExchangeSetup.log</em>
+![Google logo] (https://i-technet.sec.s-msft.com/dynimg/IC872138.png "Image")
+4. Sur la page Introduction, nous vous conseillons de consulter les liens relatifs à la planification de déploiement d’Exchange Server 2016 si ce n’est pas déjà fait. Cliquez sur Suivant pour continuer.
 
 
