@@ -66,6 +66,14 @@ New-Mailbox -Name <Name>  -UserPrincipalName <UPN> -Password (ConvertTo-SecureSt
    * FirstName (Nathan)
    * LastName (Voss)
    * *La valeur d’alias est nathanv étant donné que nous n’utilisons pas le paramètre Alias et que nathanv provient de la valeur du paramètre UserPrincipalName*
+   ```cmd
+   New-Mailbox -Name "Nathan Voss" -UserPrincipalName nathanv@okln.be -Password (ConvertTo-SecureString -String 'Pa$$word1' -AsPlainText -Force) -FirstName Nathan -LastName Voss 
+   ```
+* Pour vérifié si une boite aux lettres à bien été créee :
+   ```cmd
+   Get-Mailbox -Identity <Name> | Format-List Name,DisplayName,Alias,PrimarySmtpAddress,Database
+   ```
+
    
 
 ## Sources
