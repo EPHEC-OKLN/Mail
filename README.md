@@ -58,6 +58,14 @@ Utiliser le CAE pour créer des boîtes aux lettres d’utilisateur
 ```cmd
 New-Mailbox -Name <Name>  -UserPrincipalName <UPN> -Password (ConvertTo-SecureString -String '<Password>' -AsPlainText -Force) [-Alias <Alias>] [-FirstName <FirstName>] [-LastName <LastName>] [-DisplayName <DisplayName>] -[OrganizationalUnit <OU>] 
 ```
+* Paramètres obligatoires :
+   * Name   Pilar Pinilla. (Cette valeur est également utilisée pour le nom d’affichage, étant donné que nous n’utilisons pas le paramètre DisplayName.)
+   * UserPrincipalName (Le nom de compte Active Directory est pilarp@contoso.com.)
+   * Password (Pa$$word1)
+* Paramètres facultatifs :
+   * FirstName (Nathan)
+   * LastName (Voss)
+   * *La valeur d’alias est nathanv étant donné que nous n’utilisons pas le paramètre Alias et que nathanv provient de la valeur du paramètre UserPrincipalName*
    
 
 ## Sources
