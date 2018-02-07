@@ -73,8 +73,21 @@ Utiliser le CAE pour créer des boîtes aux lettres d’utilisateur
    ```cmd
    Get-Mailbox -Identity <Name> | Format-List Name,DisplayName,Alias,PrimarySmtpAddress,Database
    ```
-
-   
+### Créer des boîtes aux lettres pour des comptes d’utilisateurs existants
+##### Utiliser l’Environnement de ligne de commande Exchange Management Shell pour créer des boîtes aux lettres pour des comptes d’utilisateurs existants
+   *Pour créer une boîte aux lettres pour un compte d’utilisateur existant, utilisez la syntaxe suivante :*
+   ```cmd
+   Enable-Mailbox -Identity <Account> [-Alias <Alias>] [-DisplayName <DisplayName>] [-Database <Database>]
+   ```
+   - *Cet exemple de code crée une boîte aux lettres dans la base de données de boîtes aux lettres nommée UsersMailboxDatabase*
+   ```cmd
+   Enable-Mailbox -Identity kreiter@contoso.com -Database UsersMailboxDatabase
+   ```
+   - *Cet exemple recherche tous les comptes d’utilisateur dont la boîte aux lettres n’est pas activée et qui ne sont pas des comptes système (l’attribut userPrincipalName n’est pas vide), puis crée des boîtes aux lettres pour ces comptes.*
+   * Pour savoir si ces opération ont fonctionné :
+      ```cmd
+      Get-Mailbox -Identity <Name> | Format-List Name,DisplayName,Alias,PrimarySmtpAddress,Database
+      ```
 
 ## Sources
 #### Installation
