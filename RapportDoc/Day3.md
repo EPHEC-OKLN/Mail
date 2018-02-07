@@ -4,7 +4,7 @@
 
 * Problème : bug administrateur du domain controler.
 * Solution : voir avec Simon
-*****
+**
 
 # Motivations des technologies/infrastructures utilisées
 
