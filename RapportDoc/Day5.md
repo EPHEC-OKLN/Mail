@@ -10,7 +10,8 @@ Une série d'erreurs d'installation nous a beaucoup ralentit, mais en corrigeant
 ![image logo](https://i.imgur.com/03bM7N7.png "installation")<br>
 ![image logo](https://i.imgur.com/xswWivw.png "installation")<br>
 ![image logo](https://i.imgur.com/j2P2UQv.png "installation")<br>
-![image logo](https://i.imgur.com/ObcUoN6.png "installation")
+![image logo](https://i.imgur.com/ObcUoN6.png "installation")<br>
+![image logo](https://i.imgur.com/zR6SRKU.png "installation")
 # Motivations des technologies/infrastructures utilisées
 
 # Remarques éventuelles
