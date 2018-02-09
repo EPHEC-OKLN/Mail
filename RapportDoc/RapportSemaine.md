@@ -3,7 +3,7 @@ Lors de la mise en place du serveur mail. Nous avons dû mettre Exchange pour pe
 
 Pour ce fait, nous avons télécharger Exchange 2016 u3. Par la suite, nous avons remarqué que la version 3 n'était pas complète pour être installée. Du coup, nous avons installé la version u8 et installé les différentes mises à jour du windows serveur et l'installation a pu s'effectuer correctement. 
 
-# Problèmes rencontrés (énnoncé du problème + solution)
+# Problèmes rencontrés
 
 * Problème 1 : Nous avons du attendre longtemps (3 jours) avant de pouvoir commencer à installer le service de Exchange, ce qui nous a empêcher de mettre en place le système dans les temps.
 * Solution 1 : Aider les d'autres département ou offrir un accès basique (pas notre faute :/ ) à internet et à la machine virtuelle pour configurer l'ensemble des services nécessaire sur la machine.
@@ -18,7 +18,7 @@ Nous avons choisi Exchange pour des raisons de facilité de configuration et pou
 # Remarques éventuelles
 Bien faire attention aux configurations du système et s'y prendre à l'avance.
 
-# Sources (Important !)
+# Sources
 
 https://technet.microsoft.com/fr-fr/library/bb124778(v=exchg.160).aspx
 
