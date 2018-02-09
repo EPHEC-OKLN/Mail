@@ -8,8 +8,8 @@ Une série d'erreurs d'installation nous a beaucoup ralentit, mais en corrigeant
 ***L'installation est en cours***
 ![image logo](https://i.imgur.com/SNkY8mV.png "installation")<br>
 ![image logo](https://i.imgur.com/03bM7N7.png "installation")<br>
-![image logo](https://i.imgur.com/xswWivw.png "installation")
-
+![image logo](https://i.imgur.com/xswWivw.png "installation")<br>
+![image logo](https://i.imgur.com/j2P2UQv.png "installation")
 # Motivations des technologies/infrastructures utilisées
 
 # Remarques éventuelles
